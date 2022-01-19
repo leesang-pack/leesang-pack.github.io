@@ -2,10 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-You can find the source code for Minima at GitHub:
-[catlogging][catlogging-organization] /
-[catlogging](https://github.com/leesang-pack/CatLogging)
-
-[catlogging-organization]: https://github.com/leesang-pack/CatLogging
+Intro : 눈누난나
