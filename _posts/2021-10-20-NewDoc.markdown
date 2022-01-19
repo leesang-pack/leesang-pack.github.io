@@ -6,8 +6,8 @@ categories: IT
 published: true
 ---
 
-gitblog :[https://github.com/leesang-pack/CatLogging](https://github.com/leesang-pack/CatLogging)
+catlogging gitblog :[https://leesang-pack.github.io/CatLogging](https://leesang-pack.github.io/CatLogging/)
 
-github : [https://github.com/leesang-pack/CatLogging](https://github.com/leesang-pack/CatLogging)
+catlogging github : [https://github.com/leesang-pack/CatLogging](https://github.com/leesang-pack/CatLogging)
 
 방문해보세요.
