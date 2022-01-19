@@ -6,7 +6,7 @@ categories: IT
 published: true
 ---
 
-catlogging gitblog :[https://leesang-pack.github.io/CatLogging](https://leesang-pack.github.io/CatLogging/)
+catlogging gitblog :[https://leesang-pack.github.io/CatLogging](https://leesang-pack.github.io/CatLogging)
 
 catlogging github : [https://github.com/leesang-pack/CatLogging](https://github.com/leesang-pack/CatLogging)
 
