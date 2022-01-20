@@ -40,7 +40,7 @@ theme_settings:
   avatar: assets/img/blogmark.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "developer blog" # used by search engines
+  description: "leesang blog" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -120,7 +120,7 @@ gem:
   - jekyll-sitemap
   - jekyll-feed
   - wdm
-theme: minima
+theme: jekyll-theme-type
 exclude:
   - Gemfile
   - Gemfile.lock
