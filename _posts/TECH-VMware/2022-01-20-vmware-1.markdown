@@ -3,7 +3,7 @@ layout: post
 title: vmware test
 comments: true
 categories: [TECH/VMware]
-tags: [Tech Vmware]
+tags: [Tech, Vmware]
 ---
 
 Categor test1

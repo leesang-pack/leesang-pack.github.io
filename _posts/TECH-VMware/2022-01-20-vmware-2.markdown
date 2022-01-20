@@ -3,7 +3,7 @@ layout: post
 title: horizone test
 comments: true
 categories: [TECH/VMware]
-tags: [Tech Vmware]
+tags: [Tech, Vmware]
 ---
 
 Test

@@ -1,0 +1,47 @@
+---
+layout: post
+title: jekyll 테마 변경될 시 방법.
+comments: true
+categories: [TECH/Git]
+tags: [git]
+---
+
+Github의 jekyll 테마가 변경됬을 경우 간단하게 변경하는 방법.
+그리고 로컬에서 즉시 변경된 테마를 테스트를 하기 위해서는 다음과 같이 한다.
+
+환경 : 
+```java
+linux mint
+```
+
+1.기존 테마의 gem 의존 파일 삭제
+
+```java
+rm -rf Gemfile
+rm -rf Gemfile.lock
+```
+
+2._site는 web관련 빌드가 되어서 파일이 갱신된다.
+없어져도 다시 생성됨.
+
+gem에 관련 라이브러리, 테마 설치
+
+필자는 root의 gem을 사용중인다.
+```java
+> sudo bundle install
+> sudo gem install "jekyll-theme-type"
+```
+
+3.로컬에서 기동해보기
+```java
+> bundle exec jekyll serve --trace
+...
+...
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.122 seconds.
+ Auto-regeneration: enabled for '/backup/Project/Src/html/leesang-pack.github.io'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+
+```
