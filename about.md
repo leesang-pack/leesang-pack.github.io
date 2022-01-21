@@ -1,9 +1,8 @@
 ---
-layout: abou
+layout: default
 title: About
-published: true
 ---
-
+<div>
 1.Skills
 * Program Language : Python, Java, Go, C++, Shell
 * Database : MongoDB, MySQL
@@ -17,3 +16,4 @@ published: true
 
 4.Project
 * whatever
+</div>
