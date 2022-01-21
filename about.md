@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: abou
 title: About
-permalink: /about/
 published: true
 ---
 
