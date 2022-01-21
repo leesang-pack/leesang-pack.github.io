@@ -20,5 +20,5 @@ hs_err_pid*
 *.xlsx
 *.log
 
-##auto build
-#_site
+#auto build
+_site
