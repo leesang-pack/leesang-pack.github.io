@@ -24,7 +24,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "xzpluszone"
+  github: "leesang-pack"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -36,7 +36,7 @@ theme_settings:
   tumblr:
   twitter:
   wordpress:
-  youtube:
+  youtube: "xzpluszone"
 
   # Scripts
   google_analytics: G-MV141ZHLS8 # Tracking ID, e.g. "UA-000000-01"

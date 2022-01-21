@@ -5,7 +5,7 @@
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
         <link>http://localhost:4000/</link>
         <description>leesang blog</description>
-        <pubDate>Fri, 21 Jan 2022 09:41:54 +0900</pubDate>
+        <pubDate>Fri, 21 Jan 2022 11:01:44 +0900</pubDate>
         
         <item>
             <title>horizone test</title>
@@ -37,7 +37,7 @@
 
 &lt;p&gt;1.기본 테마로 되어있는 상태&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/leesang-pack/leesang-pack.github.io/master/DocImage/IMG-TECH-Git/git-2-1.png&quot; alt=&quot;git-2-1.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/leesang-pack/leesang-pack.github.io/blob/master/DocImage/TECH-Git/git-2-1.png?raw=true&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;2.github에서 제공해주는 기존 git 프로젝트에서 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;readme.md&lt;/code&gt; 파일로 보여주게 된다.&lt;/p&gt;
 
