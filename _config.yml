@@ -68,29 +68,7 @@ encoding: 'utf-8'
 category_path: "category" # <- default value
 category_layout: "category.html" # <- default value
 
-## PAGINATION
-#paginate: 2
-#paginate_path: "/page:num"
-#
-#animation: true
-#
-## BUILD SETTINGS
-#markdown: kramdown
-#highlighter: rouge
-#sass:
-#  sass_dir: _sass
-#  style: :compressed
-#plugins:
-#  - jekyll-paginate
-#  - jekyll-category-pages
-#gem:
-#  - jekyll-sitemap
-#  - jekyll-feed
-#  - wdm
-#theme: jekyll-theme-type
-#exclude:
-#  - Gemfile
-#  - Gemfile.lock
+animation: true
 
 # PAGINATION
 paginate: 5

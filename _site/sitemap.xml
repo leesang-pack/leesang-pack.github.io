@@ -10,6 +10,10 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/tech/git/2022/01/20/Git-2.html</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/tech/git/2022/01/20/Git-1.html</loc>
     </url>
     
@@ -38,7 +42,55 @@
     
     
     <url>
+        <loc>http://localhost:4000/hobby/ride</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/hobby/travel</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
         <loc>http://localhost:4000/it/info</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/tech/docker</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/tech/git</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/tech/java</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/tech/linux</loc>
     </url>
     
     
