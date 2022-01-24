@@ -85,6 +85,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 gem:
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-feed
   - wdm
