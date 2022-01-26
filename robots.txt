@@ -1,2 +1,7 @@
-User-agent: Yeti
+User-agent: Googlebot
+Disallow: /CatLogging/
+
+User-agent: *
 Allow:/
+
+Sitemap: https://leesang-pack.github.io/sitemap.xml
